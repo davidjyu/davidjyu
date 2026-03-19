@@ -1,7 +1,7 @@
 <h1 align="center">David Yu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Home+Lab+Enthusiast;CS+%2F+Commerce+%40+UQ;Building+things+that+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=300&color=888888&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Home+Lab+Enthusiast;CS+%2F+Commerce+%40+UQ;Building+things+that+ship" alt="Typing SVG" />
 </p>
 
 ---

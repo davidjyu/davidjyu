@@ -45,7 +45,7 @@ I'm a 3rd year CS/Commerce student at UQ building full-stack products and runnin
 ### Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/david-yu-4481a2175" target="_blank">
+  <a href="https://www.linkedin.com/in/davidj-yu/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=plastic&logo=linkedin" />
   </a>
 </p>

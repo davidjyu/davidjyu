@@ -1,9 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=David+Yu" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=David%20Yu&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+</p>
 
 <p align="center">
-  CS/Commerce student at <strong>University of Queensland</strong>
+  CS/Commerce student at <strong>The University of Queensland</strong>
 </p>
 
 ---
